@@ -19,3 +19,11 @@ A simple Python project that takes student marks and assigns grades with encoura
 ## ▶️ How to Run
 ```bash
 python grade_calculator.py
+
+Enter student name: Faizan
+Enter marks (0-100): 85
+
+RESULT FOR PRIYA:
+Marks: 85/100
+Grade: B
+Message: Very Good! Keep it up!
